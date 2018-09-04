@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Users/shayon/.android/build-cache/1e4a6057db3e2689118eeb0f7791f8a92115602d/output/res/values-v19/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 148,
+                        "endColumn": 56,
+                        "endOffset": 204
+                    }
+                }
+            }
+        ]
+    }
+]
