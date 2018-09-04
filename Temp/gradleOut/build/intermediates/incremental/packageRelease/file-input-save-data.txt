@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 03 19:49:36 MDT 2018
+#Mon Sep 03 20:05:50 MDT 2018
 60.set=ANDROID_RESOURCE
 52.set=ASSET
 53.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release
@@ -11,7 +11,7 @@
 13.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release
 45.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
 60.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_
-92.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xxxhdpi-v4/app_icon.png
+92.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-ldrtl-v17/back_button.xml
 8.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-mdpi-v4/quantum_ic_close_white_24.png
 99.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/folders/2000/1f/main/lib/x86/libunity.so
 100.set=ASSET
@@ -37,9 +37,9 @@
 97.set=ASSET
 83.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release
 89.set=ASSET
-112.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/quantum_ic_close_white_24.png
+112.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-ldrtl-land-v17/back_button.xml
 21.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.WindModule.dll
-28.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-nodpi-v4/vr_icon_back.png
+28.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xhdpi-v4/quantum_ic_settings_white_24.png
 75.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.UNETModule.dll
 8.set=ANDROID_RESOURCE
 1.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release
@@ -63,7 +63,7 @@
 44.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/folders/2000/1f/main/lib/armeabi-v7a/libgvr.so
 12.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_
 7.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/folders/2000/1f/main/lib/x86/libmono.so
-91.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-ldrtl-v17/back_button.xml
+91.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xxxhdpi-v4/app_icon.png
 98.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/Google.ProtocolBuffers.dll
 105.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release
 51.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
@@ -87,7 +87,7 @@
 82.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release
 79.set=NATIVE_RESOURCE
 89.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release
-111.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-ldrtl-land-v17/back_button.xml
+111.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/quantum_ic_close_white_24.png
 20.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll
 27.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/folders/2000/1f/main/lib/armeabi-v7a/libgvr_keyboard_shim_unity.so
 74.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.PerformanceReportingModule.dll
@@ -189,7 +189,7 @@
 87.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release
 25.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.ImageConversionModule.dll
 2.set=DEX
-72.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/transition.png
+72.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xxxhdpi-v4/quantum_ic_close_white_24.png
 79.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/folders/2000/1f/main/lib/armeabi-v7a/libmono.so
 107.set=ASSET
 32.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/sharedassets0.assets.split0
@@ -239,7 +239,7 @@ count=114
 86.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release
 24.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.Timeline.dll
 0.set=ANDROID_RESOURCE
-71.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-ldrtl-land-v17/settings_button.xml
+71.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/transition.png
 78.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout/ui_layer.xml
 113.set=ASSET
 105.set=ASSET
@@ -286,7 +286,7 @@ count=114
 39.set=ANDROID_RESOURCE
 85.base=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release
 23.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.CrashReportingModule.dll
-70.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xxxhdpi-v4/quantum_ic_close_white_24.png
+70.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-ldrtl-land-v17/settings_button.xml
 111.set=ANDROID_RESOURCE
 77.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.PhysicsModule.dll
 103.set=ANDROID_RESOURCE
@@ -334,7 +334,7 @@ count=114
 99.set=NATIVE_RESOURCE
 113.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.VRModule.dll
 22.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable/rippleable.xml
-29.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-xhdpi-v4/quantum_ic_settings_white_24.png
+29.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-nodpi-v4/vr_icon_back.png
 101.set=ANDROID_RESOURCE
 76.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.TerrainModule.dll
 36.file=/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-nodpi-v4/vr_icon_front.png

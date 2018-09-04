@@ -33,16 +33,16 @@ ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro t
 		ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
 application
 ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-19:17
-MERGED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:11:5-29:19
-MERGED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/ce876b101984b44b8e4e4ddb6da6bea3c53b1e6e/output/AndroidManifest.xml:11:5-28:19
+MERGED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/82cf11526db624b5e1631d4dceeed914d2e1994f/output/AndroidManifest.xml:11:5-28:19
 	android:label
 		ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/src/main/AndroidManifest.xml:4:50-82
 	android:supportsRtl
-		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:14:9-35
+		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:14:9-35
 	android:icon
 		ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-49
 	android:allowBackup
-		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:12:9-35
+		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:12:9-35
 	android:banner
 		ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/src/main/AndroidManifest.xml:4:105-142
 	android:theme
@@ -119,11 +119,11 @@ ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro t
 		ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/src/main/AndroidManifest.xml:18:16-49
 uses-sdk
 ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-72
-MERGED from [:gvr-keyboard:] /Users/shayon/.android/build-cache/76354de70f577dbc801ea8522cd289ae33065d4a/output/AndroidManifest.xml:7:5-9:41
-MERGED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:7:5-9:41
-MERGED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/ce876b101984b44b8e4e4ddb6da6bea3c53b1e6e/output/AndroidManifest.xml:7:5-9:41
-MERGED from [:gvr:] /Users/shayon/.android/build-cache/1e4a6057db3e2689118eeb0f7791f8a92115602d/output/AndroidManifest.xml:5:5-7:41
-MERGED from [:unitygvr:] /Users/shayon/.android/build-cache/974486adf1b71e6d36e74cc344015107a9fb8a71/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboard:] /Users/shayon/.android/build-cache/9ad0886cb5daeedd4a9e48c7ef4c6ad76eb8eef8/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/82cf11526db624b5e1631d4dceeed914d2e1994f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr:] /Users/shayon/.android/build-cache/3e985cd849244bbe0131e70680b092f5ba7a9ad2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [:unitygvr:] /Users/shayon/.android/build-cache/8338a4d56c41bda60f3c9a50a9f1557fa87491ab/output/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/src/main/AndroidManifest.xml:20:40-69
 		INJECTED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/src/main/AndroidManifest.xml
@@ -157,34 +157,34 @@ ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro t
 	android:name
 		ADDED from /Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/src/main/AndroidManifest.xml:25:17-80
 activity#com.google.gvr.keyboardsupport.TransitionVRActivity
-ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:17:9-28:20
+ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:17:9-28:20
 	android:enableVrMode
-		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:20:13-106
+		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:20:13-106
 	android:label
-		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:22:13-45
+		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:22:13-45
 	android:exported
-		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:21:13-37
+		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:21:13-37
 	android:resizeableActivity
-		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:23:13-47
+		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:23:13-47
 	android:configChanges
-		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:19:13-100
+		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:19:13-100
 	android:name
-		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:18:13-79
+		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:18:13-79
 intent-filter#android.intent.category.LAUNCHER+com.google.intent.category.DAYDREAM
-ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:24:13-27:29
+ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:24:13-27:29
 category#com.google.intent.category.DAYDREAM
-ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:26:17-80
+ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:26:17-80
 	android:name
-		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/AndroidManifest.xml:26:27-77
+		ADDED from [:gvr-keyboardsupport-release:] /Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/AndroidManifest.xml:26:27-77
 activity#com.google.gvr.permissionsupport.TransitionVRActivity
-ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/ce876b101984b44b8e4e4ddb6da6bea3c53b1e6e/output/AndroidManifest.xml:17:9-27:20
+ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/82cf11526db624b5e1631d4dceeed914d2e1994f/output/AndroidManifest.xml:17:9-27:20
 	android:enableVrMode
-		ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/ce876b101984b44b8e4e4ddb6da6bea3c53b1e6e/output/AndroidManifest.xml:20:13-106
+		ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/82cf11526db624b5e1631d4dceeed914d2e1994f/output/AndroidManifest.xml:20:13-106
 	android:label
-		ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/ce876b101984b44b8e4e4ddb6da6bea3c53b1e6e/output/AndroidManifest.xml:22:13-45
+		ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/82cf11526db624b5e1631d4dceeed914d2e1994f/output/AndroidManifest.xml:22:13-45
 	android:exported
-		ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/ce876b101984b44b8e4e4ddb6da6bea3c53b1e6e/output/AndroidManifest.xml:21:13-37
+		ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/82cf11526db624b5e1631d4dceeed914d2e1994f/output/AndroidManifest.xml:21:13-37
 	android:configChanges
-		ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/ce876b101984b44b8e4e4ddb6da6bea3c53b1e6e/output/AndroidManifest.xml:19:13-100
+		ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/82cf11526db624b5e1631d4dceeed914d2e1994f/output/AndroidManifest.xml:19:13-100
 	android:name
-		ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/ce876b101984b44b8e4e4ddb6da6bea3c53b1e6e/output/AndroidManifest.xml:18:13-81
+		ADDED from [:gvr-permissionsupport-release:] /Users/shayon/.android/build-cache/82cf11526db624b5e1631d4dceeed914d2e1994f/output/AndroidManifest.xml:18:13-81

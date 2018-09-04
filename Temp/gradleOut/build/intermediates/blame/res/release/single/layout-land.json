@@ -1,14 +1,14 @@
 [
     {
         "merged": "/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/ui_layer_with_portrait_support.xml",
-        "source": "/Users/shayon/.android/build-cache/1e4a6057db3e2689118eeb0f7791f8a92115602d/output/res/layout-land/ui_layer_with_portrait_support.xml"
+        "source": "/Users/shayon/.android/build-cache/3e985cd849244bbe0131e70680b092f5ba7a9ad2/output/res/layout-land/ui_layer_with_portrait_support.xml"
     },
     {
         "merged": "/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/back_button.xml",
-        "source": "/Users/shayon/.android/build-cache/1e4a6057db3e2689118eeb0f7791f8a92115602d/output/res/layout-land/back_button.xml"
+        "source": "/Users/shayon/.android/build-cache/3e985cd849244bbe0131e70680b092f5ba7a9ad2/output/res/layout-land/back_button.xml"
     },
     {
         "merged": "/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/settings_button.xml",
-        "source": "/Users/shayon/.android/build-cache/1e4a6057db3e2689118eeb0f7791f8a92115602d/output/res/layout-land/settings_button.xml"
+        "source": "/Users/shayon/.android/build-cache/3e985cd849244bbe0131e70680b092f5ba7a9ad2/output/res/layout-land/settings_button.xml"
     }
 ]

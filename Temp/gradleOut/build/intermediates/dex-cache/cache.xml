@@ -3,48 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/shayon/.android/build-cache/974486adf1b71e6d36e74cc344015107a9fb8a71/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.2"
-        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
-        <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_753a7c58a9a5f7708ff88007e39fcfa017671af1.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/libs/libprotobuf-java-nano.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.2"
         sha1="fcd53f117550c58490f29c2e27afca051626260d">
         <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/libprotobuf-java-nano_30999dd7c47a4345ea404e84de8c3ce70cb5ae33.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/shayon/.android/build-cache/ce876b101984b44b8e4e4ddb6da6bea3c53b1e6e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.2"
-        sha1="89a665d716c3d6b2922d194ecd5aec7ae45beb3f">
-        <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_63428ba8db74d3f45904bfcf8ae04e5d8f3dc7d3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/shayon/.android/build-cache/1e4a6057db3e2689118eeb0f7791f8a92115602d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.2"
-        sha1="3c3b58094572bd9cc7a20c752e08897502036b14">
-        <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_68c9351a1cc849e181a08f28497aab1359a05ea3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/shayon/.android/build-cache/76354de70f577dbc801ea8522cd289ae33065d4a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.2"
-        sha1="9dbb83f0fca00962e516ec6a098b69c7a07d0bf8">
-        <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_ed56c0790faeeb620f8bb1b60664b03e85968d7c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +21,48 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/shayon/.android/build-cache/d172b16693b5256d864f0ab27890dddcf754fe50/output/jars/classes.jar"
+        jar="/Users/shayon/.android/build-cache/82cf11526db624b5e1631d4dceeed914d2e1994f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="89a665d716c3d6b2922d194ecd5aec7ae45beb3f">
+        <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_5fc236c1460beb1d623f12ef271f61836f4eef9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shayon/.android/build-cache/8338a4d56c41bda60f3c9a50a9f1557fa87491ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_3c1558264cb79440c327efd70a54948e934b8295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shayon/.android/build-cache/0a70bee059817d64d3ba277df7106f855ba7b2b8/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.2"
         sha1="0e73b79f6ee536f7b2d00367f0a55dce11a3a61d">
-        <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_043123262173107a772506932d4077ed1d3f048e.jar" />
+        <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f7dde6227673eee1d5809633258a6062e667758e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shayon/.android/build-cache/9ad0886cb5daeedd4a9e48c7ef4c6ad76eb8eef8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="9dbb83f0fca00962e516ec6a098b69c7a07d0bf8">
+        <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_3b03e64226f1a5570794d5b2dbe368e3bb92c2f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shayon/.android/build-cache/3e985cd849244bbe0131e70680b092f5ba7a9ad2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="3c3b58094572bd9cc7a20c752e08897502036b14">
+        <dex dex="/Users/shayon/Google Drive/Fall 2018 Coursework/CSCI 7000-007 Intro to VR/SuperHeroVR/SuperHeroVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_67c0b2eef088f7fd76f7a079cdfb78d2e3950ea9.jar" />
     </item>
 
 </items>
